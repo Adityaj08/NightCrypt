@@ -31,5 +31,5 @@ NightCrypt is an encryption application that allows users to securely encrypt an
 
 4. Run the app using streamli:
    ```bash
-   streamlit run streamli_app.py
+   streamlit run streamlit_app.py
    ```
