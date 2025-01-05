@@ -29,9 +29,7 @@ NightCrypt is an encryption application that allows users to securely encrypt an
    pip install -r requirements.txt
    ```
 
-## Usage
-
-Run the application using Streamlit:
+4.Run the application using Streamlit:
     ```bash
     streamlit run app.py
     ```
