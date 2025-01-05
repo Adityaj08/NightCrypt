@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.pem
+*.log
+*.env
+*.DS_Store
+*.egg-info/
+*.egg
+*.venv/
+.env
+.streamlit/
