@@ -210,6 +210,7 @@ def main():
                     otp = generate_otp()
                     st.session_state.reset_otp = otp
                     st.session_state.reset_username = user.username
+                    st.session_state.otp_timestamp = datetime.now()
                     if send_otp_email(reset_email, otp, user.username):
                         st.success("OTP sent to your email")
                 else:
