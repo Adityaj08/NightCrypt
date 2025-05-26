@@ -1,5 +1,5 @@
 # NightCrypt
-[Project Screenshot](project.png)
+![Project Screenshot](project.png)
 
 NightCrypt is an encryption application that allows users to securely encrypt and decrypt messages using RSA and Caesar cipher algorithms. It also supports user authentication, password reset via OTP, and key management.
 
